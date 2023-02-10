@@ -1,5 +1,6 @@
 Hi! My name is Aron Roy and I am a javascript developer.👋
 
+```
 const aronRoy = {
     pronouns: "He" | "Him",
     code: ["Javascript"],
@@ -20,7 +21,7 @@ const aronRoy = {
     architecture: ["Single page applications", "UI/UX Ddesign"],
     currentFocus: "React"
 };
-
+```
 
 
 
