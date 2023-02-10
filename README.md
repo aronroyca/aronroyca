@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! My name is Aron Roy and I am a javascript developer.👋
 
 <!--
 **aronroyca/aronroyca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
