@@ -18,7 +18,7 @@ const aronRoy = {
         databases: ["mongo", "MySql"],
         misc: ["ChatGPT", "Postman"]
     },
-    architecture: ["Single page applications", "UI/UX Ddesign"],
+    architecture: ["Single page applications"],
     currentFocus: "React"
 };
 ```
