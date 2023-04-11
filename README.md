@@ -16,13 +16,12 @@ const aronRoy = {
         },
         devOps: ["Postman", "Docker🐳"],
         databases: ["mongo", "MySql"],
-        misc: ["ChatGPT", "Postman"]
+        misc: ["ChatGPT"]
     },
     architecture: ["Single page applications"],
     currentFocus: "React"
 };
 ```
-
 
 
 
