@@ -3,8 +3,8 @@ Hi! My name is Aron Roy and I am a javascript developer.👋
 ```
 const aronRoy = {
     pronouns: "He" | "Him",
-    code: ["Javascript"],
-    askMeAbout: ["web dev", "tech", "app dev", "food"],
+    code: ["Javascript", "Python"],
+    askMeAbout: ["IT", "AI", "web dev", "tech", "app dev", "food"],
     technologies: {
         frontEnd: {
             js: ["React", "Jquery"],
@@ -13,13 +13,14 @@ const aronRoy = {
         },
         backEnd: {
             js: ["Node", "Express"],
+            python: ["Flask"]
         },
         devOps: ["Postman", "Docker🐳"],
         databases: ["mongo", "MySql"],
         misc: ["ChatGPT"]
     },
     architecture: ["Single page applications"],
-    currentFocus: "React"
+    currentFocus: "AI"
 };
 ```
 
