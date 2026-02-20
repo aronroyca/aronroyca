@@ -1,30 +1,36 @@
-Hi! My name is Aron Roy and I am a javascript developer.👋
-
 ```
 const aronRoy = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python"],
-    askMeAbout: ["IT", "AI", "web dev", "tech", "app dev", "food"],
+    pronouns: "He | Him",
+    code: ["Python", "JavaScript", "Bash"],
+    
+    currentlyBuilding: [
+        "Spartan — an AI-powered IT ticket enrichment pipeline",
+        "Autonomous triage agents that connect Jira, Confluence, Slack, and Jira Assets",
+        "Cloud-deployable Python services on Google Cloud Run"
+    ],
+
     technologies: {
-        frontEnd: {
-            js: ["React", "Jquery"],
-            css: ["css3", "Bootstrap"],
-            html: ["html5"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Flask"]
-        },
-        devOps: ["Postman", "Docker🐳"],
-        databases: ["mongo", "MySql"],
-        misc: ["ChatGPT"]
+        ai: ["OpenAI API", "Gemini", "Claude API", "LLM prompt engineering", "agentic pipelines"],
+        automation: ["REST APIs", "Webhooks", "Jira API", "Confluence API", "Slack API", "Google Workspace API"],
+        infrastructure: ["Docker", "Google Cloud Run", "Cloud Run Jobs", "cron scheduling"],
+        devTools: ["Git", "Python modular architecture", "FastAPI", "Flask"],
+        platforms: ["Jira", "Confluence", "Slack", "Zoom"]
     },
-    architecture: ["Single page applications"],
-    currentFocus: "AI"
+
+    architecture: [
+        "Modular service pipelines (src/services, src/core)",
+        "Event-driven automation",
+        "RAG patterns applied to IT operations",
+        "Dry-run safety harnesses for production-safe development"
+    ],
+
+    currentFocus: "Building the technical foundation for AI-powered IT operations — autonomous triage, intelligent enrichment, and self-healing documentation",
+
+    background: "2.5 years in enterprise IT.",
+
+    askMeAbout: ["IT automation", "AI agents", "enterprise API integrations", "Google Workspace", "Okta", "Python", "cloud deployment", "food"]
 };
 ```
-
-
 
 
 
